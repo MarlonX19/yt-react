@@ -32,6 +32,7 @@ export default class ReposContainer extends Component {
     }
 
     render() {
+        console.log(this.state.repos)
         return (
             <div className="main">
                 <h1>Pesquise os repositórios dos devs</h1>

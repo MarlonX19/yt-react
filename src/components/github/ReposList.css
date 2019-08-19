@@ -1,0 +1,13 @@
+ul {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    margin-top: 20px;
+}
+
+ul li {
+    margin: 5px;
+    font-family: Courier, monospace, 'Courier New';
+    font-size: 18px;
+    text-decoration: none;
+}
